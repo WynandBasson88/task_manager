@@ -1,0 +1,74 @@
+The total number of tasks that have been created in the task manager: 14
+The total number of users registered with the task manager: 10
+
+User admin is responsible for 2 tasks out of 14
+User admin has been assigned 14.29% of the workload (of the 14 tasks)
+User admin has completed 2 tasks out of the 2
+User admin has completed 100% of the 2 tasks
+User admin has not completed 0% of the 2 tasks
+User admin has 0% tasks uncompleted and overdue
+User admin has 0 tasks uncompleted and overdue
+
+User Wynand is responsible for 3 tasks out of 14
+User Wynand has been assigned 21.43% of the workload (of the 14 tasks)
+User Wynand has completed 0 tasks out of the 3
+User Wynand has completed 0% of the 3 tasks
+User Wynand has not completed 100% of the 3 tasks
+User Wynand has 0% tasks uncompleted and overdue
+User Wynand has 0 tasks uncompleted and overdue
+
+User Silvia is responsible for 1 tasks out of 14
+User Silvia has been assigned 7.14% of the workload (of the 14 tasks)
+User Silvia has completed 0 tasks out of the 1
+User Silvia has completed 0% of the 1 tasks
+User Silvia has not completed 100% of the 1 tasks
+User Silvia has 0% tasks uncompleted and overdue
+User Silvia has 0 tasks uncompleted and overdue
+
+User Marco is responsible for 3 tasks out of 14
+User Marco has been assigned 21.43% of the workload (of the 14 tasks)
+User Marco has completed 3 tasks out of the 3
+User Marco has completed 100% of the 3 tasks
+User Marco has not completed 0% of the 3 tasks
+User Marco has 0% tasks uncompleted and overdue
+User Marco has 0 tasks uncompleted and overdue
+
+User Therese is responsible for 0 tasks out of 14
+User Therese has been assigned 0.0% of the workload (of the 14 tasks)
+User Therese has completed 0 tasks out of the 0
+User Therese has 0 tasks uncompleted and overdue
+
+User Wesley is responsible for 3 tasks out of 14
+User Wesley has been assigned 21.43% of the workload (of the 14 tasks)
+User Wesley has completed 1 tasks out of the 3
+User Wesley has completed 33% of the 3 tasks
+User Wesley has not completed 67% of the 3 tasks
+User Wesley has 67% tasks uncompleted and overdue
+User Wesley has 2 tasks uncompleted and overdue
+
+User Dylan is responsible for 1 tasks out of 14
+User Dylan has been assigned 7.14% of the workload (of the 14 tasks)
+User Dylan has completed 1 tasks out of the 1
+User Dylan has completed 100% of the 1 tasks
+User Dylan has not completed 0% of the 1 tasks
+User Dylan has 0% tasks uncompleted and overdue
+User Dylan has 0 tasks uncompleted and overdue
+
+User Solid is responsible for 1 tasks out of 14
+User Solid has been assigned 7.14% of the workload (of the 14 tasks)
+User Solid has completed 0 tasks out of the 1
+User Solid has completed 0% of the 1 tasks
+User Solid has not completed 100% of the 1 tasks
+User Solid has 0% tasks uncompleted and overdue
+User Solid has 0 tasks uncompleted and overdue
+
+User Liquid is responsible for 0 tasks out of 14
+User Liquid has been assigned 0.0% of the workload (of the 14 tasks)
+User Liquid has completed 0 tasks out of the 0
+User Liquid has 0 tasks uncompleted and overdue
+
+User Solidus is responsible for 0 tasks out of 14
+User Solidus has been assigned 0.0% of the workload (of the 14 tasks)
+User Solidus has completed 0 tasks out of the 0
+User Solidus has 0 tasks uncompleted and overdue
+

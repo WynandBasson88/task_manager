@@ -1,0 +1,6 @@
+The total number of tasks that have been created in the task manager: 14
+The total number of tasks completed: 7
+The total number of tasks uncompleted: 7
+The total number of tasks overdue that haven't been completed: 2
+The percentage of tasks that haven't been completed: 50.0%
+The percentage of tasks overdue: 14.29%

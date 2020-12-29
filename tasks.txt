@@ -1,0 +1,14 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, Yes
+Wynand, Gaming, Play PS4 Games, 15 Jan 2021, 09 Dec 2020, No
+Silvia, Food, Prepare a nice meal for the family, 6 Feb 2021, 09 Dec 2020, No
+Wesley, Enjoy, Have a great holiday, 2 Dec 2020, 09 Dec 2020, No
+Marco, Play, Complete Demon Souls, 22 Jan 2021, 09 Dec 2020, Yes
+Marco, Sing, Release a record, 8 Jan 2021, 11 Dec 2020, Yes
+Marco, Party, Go to a club, 08 Jan 2020, 11 Dec 2020, Yes
+Wesley, Study, Learn how to code, 20 Jan 2021, 12 Dec 2020, Yes
+Dylan, Stop, Stop playing Call of Duty, 12 Dec 2020, 12 Dec 2020, Yes
+Wesley, Play, Play Sekiro, 14 Dec 2020, 12 Dec 2020, No
+Solid, Infiltrate, Sneak past the enemies, 22 Feb 2021, 15 Dec 2020, No
+Wynand, Keep Healthy, Go for a jog, 20 Jan 2021, 29 Dec 2020, No
+Wynand, Singing, Find a rockband, 30 Jan 2021, 29 Dec 2020, No
