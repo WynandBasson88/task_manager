@@ -13,7 +13,7 @@ The task_manager project enables the admin to login to the task management syste
 * Display statistics of users and tasks assigned to them
 * Generate statistical reports
 
-The goal of this project was to build a task management system using the Python programming language and can be used by any person or business that needs to keep track of all the tasks assigned to employees.
+The goal of this project was to build a task management system using the Python programming language. This project can be used by any person or business that needs to keep track of all the tasks assigned to employees.
 
 ## Instructions for how to test the code
 * Download the task_manager.py file
