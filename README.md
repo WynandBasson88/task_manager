@@ -1,15 +1,12 @@
 # task_manager
 ## What the task_manager project is for
-The task_manager project enables the user to login to the task management system and do the following:
+The task_manager project was created using Python. This project enables the user to do the following:
 * View all tasks assigned to the user  
 * View all tasks assigned to all users
 * Add a task and assign it to a user
 
-The task_manager project enables the admin to login to the task management system and do the following:
+The task_manager project enables the admin to additionally do the following:
 * Register a new user
-* View all tasks assigned to the user  
-* View all tasks assigned to all users
-* Add a task and assign it to a user
 * Display statistics of users and tasks assigned to them
 * Generate statistical reports
 
